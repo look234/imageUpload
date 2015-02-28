@@ -1,0 +1,43 @@
+#sideBar { padding: 10px; }
+#topSpacing { padding-bottom: 25px; }
+#imagePreview { text-align: center; }
+#uploadSubmit { text-align: center; padding-top: 10px; }
+#uploadMessage { text-size: 1em; }
+.fileInfo { font-size: 0.75em; }
+#preview { width: auto; height: auto; max-height: 200px !important; max-width: 200px !important; }
+#mainImage { width: auto; height: auto; max-height: 500px !important;  }
+#mainImageHolder { background-color: white; height: 500px; }
+.thumbHolder { height: 313px; }
+.thumbs { width: auto; max-height: 100px !important; }
+
+#theBusiness { 
+   background-color: #58ede3; padding: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+}
+
+#mainBody {
+   height: 100%;
+   font-family: Verdana; 
+   background-color: #1b1224;
+}
+
+#mainView { margin: 10px;
+   height: 520px;
+   background-color: #58ede3; padding: 10px; text-align: center;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+}
+
+/* Color Scheme: Dark to Light
+#1b1224
+#332230
+#363b48
+#4c848d
+#58ede3
+*/
+
+
+
